@@ -1,0 +1,22 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+
+# vim
+*.swp
+
+npm-debug.log
+node_modules
+.idea
+.DS_Store
+.nyc_output
+coverage
+.vscode
+dist

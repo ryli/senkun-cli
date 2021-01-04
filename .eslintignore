@@ -1,0 +1,5 @@
+*.d.ts
+*.spec.ts
+*.test.ts
+dist/**/*.js
+src/types/*.ts
